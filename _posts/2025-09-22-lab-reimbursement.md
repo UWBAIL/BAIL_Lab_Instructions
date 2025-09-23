@@ -16,7 +16,7 @@ This guide outlines the necessary steps for submitting work-related expenses for
 
 Before incurring any expenses, you must:
 
-1.  **Contact the Lab Incharge** to request approval for your purchase.
+1.  **Contact Professor Wang** to request approval for your purchase.
 2.  Provide a clear description of the business purpose and an estimated cost.
 3.  Obtain the correct **`worktag`** for your expense. This code is required to allocate the funds correctly.
 
@@ -59,5 +59,5 @@ When filling out the forms on the university's site, you will be asked to upload
 <div class="notice--info" markdown="1">
 **Questions?**
 
-If you have questions about the process or which `worktag` to use, please speak with the Lab Incharge before submitting your request.
+If you have questions about the process or which `worktag` to use, please speak with Professor Wang before submitting your request.
 </div>```
