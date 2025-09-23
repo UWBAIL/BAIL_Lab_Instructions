@@ -1,9 +1,9 @@
 ---
-title: "Remote Drive Access (Windows)"
+title: "Remote Drive Access (Windows - NAS, Data2, and Data3)"
 categories:
   - Drive Access
 ---
-# BAIL Lab: Network Drive Instructions
+# BAIL Lab: Network Drive Instructions (NAS, Data2, and Data3)
 
 Welcome to the guide for accessing and using remote network drives (NAS, Data2, and Data3) in the BAIL Lab.
 

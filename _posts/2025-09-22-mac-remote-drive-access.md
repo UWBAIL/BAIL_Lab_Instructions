@@ -1,5 +1,5 @@
 ---
-title: "Remote Drive Access (Mac)"
+title: "Remote Drive Access (Mac - NAS, Data2, and Data3)"
 categories:
   - Drive Access
 ---
