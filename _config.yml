@@ -48,7 +48,7 @@ plugins:
 author:
   name   : "BAIL Lab"
   avatar : "/assets/images/bio-photo.png" 
-  bio    : "Lab instructions and guides." # <<< CHANGED
+  bio    : "Lab instructions and guides."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
