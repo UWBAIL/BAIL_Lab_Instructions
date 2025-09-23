@@ -79,6 +79,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
+      share: false
+      related: false
+
 
 category_archive:
   type: liquid
