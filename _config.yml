@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "BAIL Lab Instructions"
+title: "BAIL Instructions and Guides"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Essential guides and instructions for the BAIL Lab at the University of Washington. # <<< CHANGED
@@ -46,13 +46,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "BAIL Lab"
+  name   : "BAIL"
   avatar : "/assets/images/bio-photo.png" 
   bio    : "Lab instructions and guides."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/UWBAIL"
+
 
 footer:
   links:
