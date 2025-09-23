@@ -1,5 +1,5 @@
 ---
-title: "Welcome Thanu!"
+title: "Welcome Thanu Kumar!"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. This is the part that ive changed right now. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+So is the date really necessary to include over here? You'll find this post in your `_posts` directory. This is the part that ive changed right now. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Chnge here thanu To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
