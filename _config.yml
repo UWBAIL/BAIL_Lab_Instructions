@@ -46,7 +46,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "BAIL"
+  name   : "Biophotonics and Imaging Laboratory"
   avatar : "/assets/images/bio-photo.png" 
   bio    : "Lab instructions and guides."
   links:
