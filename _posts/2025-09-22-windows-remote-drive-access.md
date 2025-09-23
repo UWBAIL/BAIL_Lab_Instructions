@@ -19,7 +19,7 @@ Follow these instructions carefully to map a network drive to your computer. You
 1.  Open **File Explorer**. In the left-hand navigation pane, right-click on **"This PC"**.
 2.  From the context menu, select **"Map network drive..."**.
 
-    ![Screenshot of right-clicking 'This PC'](./assets/images/image1.png)
+    ![Screenshot of right-clicking 'This PC'](/assets/images/image1.png)
 
 3.  In the dialog box that appears, choose an available **Drive** letter from the dropdown menu (e.g., `X:`, `Y:`, or `Z:`).
 
