@@ -1,9 +1,9 @@
 ---
-title: "Remote Drive Access (Windows)"
+title: "Remote Drive Access (Windows - NAS, Data2, and Data3)"
 categories:
   - Drive Access
 ---
-# BAIL Lab: Network Drive Instructions
+# BAIL Lab: Network Drive Instructions (NAS, Data2, and Data3)
 
 Welcome to the guide for accessing and using remote network drives (NAS, Data2, and Data3) in the BAIL Lab.
 
@@ -19,7 +19,7 @@ Follow these instructions carefully to map a network drive to your computer. You
 1.  Open **File Explorer**. In the left-hand navigation pane, right-click on **"This PC"**.
 2.  From the context menu, select **"Map network drive..."**.
 
-    ![Screenshot of right-clicking 'This PC'](/assets/images/image1.png)
+    ![Screenshot of right-clicking 'This PC']({{ "/assets/images/image1.png" | relative_url }})
 
 3.  In the dialog box that appears, choose an available **Drive** letter from the dropdown menu (e.g., `X:`, `Y:`, or `Z:`).
 
@@ -42,13 +42,13 @@ Follow these instructions carefully to map a network drive to your computer. You
 
     Your completed dialog should look similar to this (example using Data3):
 
-    ![Screenshot of the completed 'Map Network Drive' dialog'](./assets/images/image2.png)
+    ![Screenshot of the completed 'Map Network Drive' dialog']({{ "/assets/images/image2.png" | relative_url }})
 
 6.  Click **"Finish"**.
 
 7.  A new window will pop up asking for your network credentials. Enter the username and password provided (Request username and password if you haven't been assigned one yet).
 
-    ![Screenshot of the Windows Security login prompt](./assets/images/image3.png)
+    ![Screenshot of the Windows Security login prompt]({{ "/assets/images/image3.png" | relative_url }})
 
 8.  Access to the drive should now be granted! The new drive will appear under "This PC" in your File Explorer.
 

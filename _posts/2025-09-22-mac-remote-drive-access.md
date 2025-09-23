@@ -1,5 +1,5 @@
 ---
-title: "Remote Drive Access (Mac)"
+title: "Remote Drive Access (Mac - NAS, Data2, and Data3)"
 categories:
   - Drive Access
 ---
@@ -18,7 +18,7 @@ Welcome to the guide for accessing and using remote network drives (NAS, Data2, 
 1.  Open the **"Connect to Server"** dialog box. The easiest way is to click on your desktop to ensure **Finder** is the active application, then press the keyboard shortcut: **`Command`** + **`K`**.
     *   Alternatively, you can click **"Go"** from the top menu bar, then select **"Connect to Server..."**.
 
-    ![Screenshot of the Go menu in Finder](./assets/images/mac1.png)
+    ![Screenshot of the Go menu in Finder]({{ "/assets/images/mac1.png" | relative_url }})
 
 2.  In the **Server Address** field, you need to tell your Mac which drive to connect to. **Copy and paste one of the following addresses exactly:**
 
@@ -37,19 +37,20 @@ Welcome to the guide for accessing and using remote network drives (NAS, Data2, 
 
 3.  (Optional but recommended) Click the **`+`** button to add this address to your "Favorite Servers" list for quick access in the future.
 
-    ![Screenshot of the completed Connect to Server dialog](./assets/images/mac2.png)
+    ![Screenshot of the completed Connect to Server dialog]({{ "/assets/images/mac2.png" | relative_url }})
+
 
 4.  Click **"Connect"**.
 
 5.  You will be prompted to enter your credentials. Enter the username and password provided by Thanu.
 
-    ![Screenshot of the macOS authentication prompt](./assets/images/mac3.png)
+    ![Screenshot of the macOS authentication prompt]({{ "/assets/images/mac3.png" | relative_url }})
 
 6.  Click **"Connect"** again.
 
 7.  Success! The network drive will now appear in the Finder sidebar under "Locations" and/or on your Desktop, depending on your Finder settings.
 
-    ![Screenshot of the drive appearing on the desktop or in Finder](./assets/images/mac4.png)
+    ![Screenshot of the drive appearing on the desktop or in Finder]({{ "/assets/images/mac4.png" | relative_url }})
 
 > **Tip:** To access all three drives, simply repeat steps 1-6 for each of the remaining server addresses.
 
